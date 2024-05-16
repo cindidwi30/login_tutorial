@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284549118157",
+    "project_id": "login-tutorial-f1dfd",
+    "storage_bucket": "login-tutorial-f1dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284549118157:android:50547e165d7ecf56bd5184",
+        "android_client_info": {
+          "package_name": "com.example.login_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuh68uSV8uOBpRlys69Z-Wy0OIOO0tCMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
