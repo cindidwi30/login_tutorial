@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:tutorial_login/pages/home_page.dart';
 import 'package:tutorial_login/pages/login_page.dart';
 
+import 'login_or_register_page.dart';
+
 class AuthPage extends StatelessWidget {
   const AuthPage({super.key});
 
@@ -19,7 +21,7 @@ class AuthPage extends StatelessWidget {
 
           // user is not logged in
           else {
-            return LoginPage(key: UniqueKey()); // Or any other key generation method
+            return LoginOrRegisterPage(key: UniqueKey()); // Or any other key generation method
 
           }
         },
